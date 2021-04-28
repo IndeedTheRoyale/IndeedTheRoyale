@@ -4,7 +4,7 @@ Hello! 👋 Devs
 - 👀 I’m interested in Software development, ui/ux designing.
 
 
-![image](https://user-images.githubusercontent.com/72162100/116417085-96788000-a858-11eb-8972-15ef600129f7.png)
+![image](https://user-images.githubusercontent.com/72162100/116417085-96788000-a858-11eb-8972-15ef600129f7.gif)
 
 
 - 🌱 I’m currently learning React
