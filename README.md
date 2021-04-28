@@ -1,11 +1,11 @@
 Hello! 👋 Devs
 
-- 👋 Hi, I’m Sushant Rana , a CSE student 
-- 👀 I’m interested in Software development, ui/ux designing.
+I’m Sushant Rana , a CSE student 
+
 <p align="center"> 
 <img src="https://raw.githubusercontent.com/coderjojo/coderjojo/master/img/github.gif" width="150" height="150"/>
 </p>
-
+- 👀 I’m interested in Software development, ui/ux designing.
 - 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on Flutter
 <!---
